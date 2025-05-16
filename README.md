@@ -1,4 +1,4 @@
-# YuèYè 月夜 v0.0.2
+# YuèYè 月夜 v0.0.3
 
 YueYe is a high contrast, dark theme. It consists of 24 colors and multiple themes that I created.
 
@@ -21,7 +21,7 @@ And so; in my own opinion, the core rules should be:
 I bump the version once I change a color of the Palette below.
 
 ```
-v0.0.2
+v0.0.3
  ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
    ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
      ╰─ Minor Version / Very small updates to the palette
@@ -32,23 +32,23 @@ v0.0.2
 
 | Color | Name | HEX Value | Usage |
 | --- | --- | --- | --- |
-| ![#816BFF](https://img.shields.io/badge/_-816BFF?style=for-the-badge) | Jīn 金 | `#816BFF` | Main Accent |
-| ![#4CCEFE](https://img.shields.io/badge/_-4CCEFE?style=for-the-badge) | Yín 银 | `#4CCEFE` | Secondary Accent |
-| ![#FF5487](https://img.shields.io/badge/_-FF5487?style=for-the-badge) | Hóng 红 | `#FF5487` | Properties, Fields |
-| ![#54FF80](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Lǜ 绿 | `#54FF80` | Strings, Content |
-| ![#FFE375](https://img.shields.io/badge/_-FFE375?style=for-the-badge) | Jú 橘 | `#FFE375` | Functions, Methods |
-| ![#6682FF](https://img.shields.io/badge/_-6682FF?style=for-the-badge) | Lán 蓝 | `#6682FF` | Keywords, Important UI |
-| ![#EB6AFF](https://img.shields.io/badge/_-EB6AFF?style=for-the-badge) | Zǐ 紫 | `#EB6AFF` | Special syntax |
+| ![#816BFF](https://img.shields.io/badge/_-816BFF?style=for-the-badge) | Jīn 金 | `#816BFF` | Main Accent, Display accents / symbols |
+| ![#4CBF67](https://img.shields.io/badge/_-4CBF67?style=for-the-badge) | Yín 银 | `#4CBF67` | Secondary Accent, Input elements, Strings |
+| ![#FF5487](https://img.shields.io/badge/_-FF5487?style=for-the-badge) | Hóng 红 | `#FF5487` | Properties, Fields, Important elements, Removed |
+| ![#54FF80](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Lǜ 绿 | `#54FF80` | Added |
+| ![#FFE375](https://img.shields.io/badge/_-FFE375?style=for-the-badge) | Jú 橘 | `#FFE375` | Updated |
+| ![#6682FF](https://img.shields.io/badge/_-6682FF?style=for-the-badge) | Lán 蓝 | `#6682FF` | Keywords, Types |
+| ![#F76DE2](https://img.shields.io/badge/_-F76DE2?style=for-the-badge) | Zǐ 紫 | `#F76DE2` | Identifier, Method Calls, Special syntax |
 | ![#4CCEFE](https://img.shields.io/badge/_-4CCEFE?style=for-the-badge) | Qīng 青 | `#4CCEFE` | Folders, Navigation |
-| ![#FF6593](https://img.shields.io/badge/_-FF6593?style=for-the-badge) | Yàn 艳 | `#FF6593` |  |
-| ![#77FF9A](https://img.shields.io/badge/_-77FF9A?style=for-the-badge) | Cuì 翠 | `#77FF9A` |  |
-| ![#FFE188](https://img.shields.io/badge/_-FFE188?style=for-the-badge) | Chéng 橙 | `#FFE188` |  |
-| ![#8399FF](https://img.shields.io/badge/_-8399FF?style=for-the-badge) | Tiān 天 | `#8399FF` |  |
-| ![#F08EFF](https://img.shields.io/badge/_-F08EFF?style=for-the-badge) | Fěi 翡 | `#F08EFF` |  |
-| ![#74D9FE](https://img.shields.io/badge/_-74D9FE?style=for-the-badge) | Líng 泠 | `#74D9FE` |  |
-| ![#EBE9F1](https://img.shields.io/badge/_-EBE9F1?style=for-the-badge) | Xuě 雪 | `#EBE9F1` | Text |
+| ![#FF6593](https://img.shields.io/badge/_-FF6593?style=for-the-badge) | Yàn 艳 | `#FF6593` | lighter variant |
+| ![#77FF9A](https://img.shields.io/badge/_-77FF9A?style=for-the-badge) | Cuì 翠 | `#77FF9A` | lighter variant |
+| ![#FFE188](https://img.shields.io/badge/_-FFE188?style=for-the-badge) | Chéng 橙 | `#FFE188` | lighter variant |
+| ![#8399FF](https://img.shields.io/badge/_-8399FF?style=for-the-badge) | Tiān 天 | `#8399FF` | lighter variant |
+| ![#F08EFF](https://img.shields.io/badge/_-F08EFF?style=for-the-badge) | Fěi 翡 | `#F08EFF` | lighter variant |
+| ![#74D9FE](https://img.shields.io/badge/_-74D9FE?style=for-the-badge) | Líng 泠 | `#74D9FE` | lighter variant |
+| ![#EBE9F1](https://img.shields.io/badge/_-EBE9F1?style=for-the-badge) | Xuě 雪 | `#EBE9F1` | Main Text |
 | ![#BFBDCA](https://img.shields.io/badge/_-BFBDCA?style=for-the-badge) | Bái 白 | `#BFBDCA` | Subtext |
-| ![#938FA8](https://img.shields.io/badge/_-938FA8?style=for-the-badge) | Dàn 淡 | `#938FA8` | Overlay |
+| ![#938FA8](https://img.shields.io/badge/_-938FA8?style=for-the-badge) | Dàn 淡 | `#938FA8` | Overlay, Comments |
 | ![#72708E](https://img.shields.io/badge/_-72708E?style=for-the-badge) | Qīng 青 | `#72708E` | Overlay |
 | ![#4C4B69](https://img.shields.io/badge/_-4C4B69?style=for-the-badge) | Huī 灰 | `#4C4B69` | Surface |
 | ![#323246](https://img.shields.io/badge/_-323246?style=for-the-badge) | Àn 暗 | `#323246` | Lighter Background |
