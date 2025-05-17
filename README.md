@@ -1,10 +1,10 @@
 # YuèYè 月夜 v0.0.3
 
-YueYe is a high contrast, dark theme. It consists of 24 colors and multiple themes that I created.
+YueYe is a high contrast, dark theme. It consists of 22 colors and multiple themes/ports that I (and hopefully soon, others) created.
 
 ## Philosophy
 
-Let's be blunt:
+I'll be blunt:
 
 - This colorscheme and it's ports are **opinionated** — it reflects *my* preferences, and I won’t compromise on its core style.
   - **But!** You’re absolutely welcome to contribute:
@@ -54,6 +54,7 @@ v0.0.3
 | ![#323246](https://img.shields.io/badge/_-323246?style=for-the-badge) | Àn 暗 | `#323246` | Lighter Background |
 | ![#1C1B28](https://img.shields.io/badge/_-1C1B28?style=for-the-badge) | Mò 墨 | `#1C1B28` | Default Background |
 | ![#07060B](https://img.shields.io/badge/_-07060B?style=for-the-badge) | Hēi 黑 | `#07060B` | Darker Background |
+
 
 ## Naming Convention
 
