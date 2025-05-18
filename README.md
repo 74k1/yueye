@@ -83,7 +83,7 @@ Contributions welcome! Here's what exists so far:
 | --- | --- | --- |
 | [GTK](https://www.gtk.org/) | [74k1/yueye.gtk](https://github.com/74k1/yueye.gtk) | in progress |
 | [Kagi Search](https://kagi.com/) | [74k1/yueye.kagi.css](https://github.com/74k1/yueye.kagi.css) | in progress |
-| [Neovim](https://github.com/neovim/neovim) | [74k1/yueye.nvim](https://github.com/74k1/yueye.nvim) | finished (not satisfied yet) |
+| [Neovim](https://github.com/neovim/neovim) | [74k1/yueye.nvim](https://github.com/74k1/yueye.nvim) | in progress, but an older version exists (not satisfied yet) |
 | [Nix](https://nixos.org/) | [74k1/yueye.nix](https://github.com/74k1/yueye.nix) | in progress |
 
 ## Contributing
