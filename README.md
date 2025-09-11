@@ -31,7 +31,7 @@ v0.1.8
 ## Palette
 
 | Base Name | Color | Name | HEX Value | Usage |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | `base0F` | ![#FA75C1](https://img.shields.io/badge/_-FA75C1?style=for-the-badge) | Hóng 红 | `#FA75C1` | Deprecated, Properties, Fields, Important elements, Removed |
 | `base0E` | ![#D387F7](https://img.shields.io/badge/_-D387F7?style=for-the-badge) | Lǜ 绿   | `#D387F7` | Identifier, Method Calls, Special syntax |
 | `base0D` | ![#7CCBFB](https://img.shields.io/badge/_-7CCBFB?style=for-the-badge) | Jú 橘   | `#7CCBFB` | Updated |
