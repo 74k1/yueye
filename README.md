@@ -1,4 +1,4 @@
-# YuèYè 月夜 v0.0.5
+# YuèYè 月夜 v0.0.6
 
 YueYe is a high contrast, dark theme. It consists of 20 colors and multiple themes/ports that I (and hopefully soon, others) created.
 
@@ -21,7 +21,7 @@ And so; in my own opinion, the core rules should be:
 I bump the version once I change a color of the Palette below.
 
 ```
-v0.0.5
+v0.0.6
  ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
    ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
      ╰─ Minor Version / Very small updates to the palette
@@ -42,7 +42,7 @@ v0.0.5
 | ![#77FF9A](https://img.shields.io/badge/_-77FF9A?style=for-the-badge) | Cuì 翠 | `#77FF9A` | lighter variant |
 | ![#FFE188](https://img.shields.io/badge/_-FFE188?style=for-the-badge) | Chéng 橙 | `#FFE188` | lighter variant |
 | ![#949BFF](https://img.shields.io/badge/_-8399FF?style=for-the-badge) | Tiān 天 | `#949BFF` | lighter variant |
-| ![#E47FFF](https://img.shields.io/badge/_-E47FFF?style=for-the-badge) | Fěi 翡 | `#E47FFF` | lighter variant |
+| ![#C57FFE](https://img.shields.io/badge/_-C57FFE?style=for-the-badge) | Fěi 翡 | `#C57FFE` | lighter variant |
 | ![#91DFFC](https://img.shields.io/badge/_-91DFFC?style=for-the-badge) | Líng 泠 | `#91DFFC` | lighter variant |
 | ![#EBE9F1](https://img.shields.io/badge/_-EBE9F1?style=for-the-badge) | Xuě 雪 | `#EBE9F1` | Main Text |
 | ![#BFBDCA](https://img.shields.io/badge/_-BFBDCA?style=for-the-badge) | Bái 白 | `#BFBDCA` | Subtext |
