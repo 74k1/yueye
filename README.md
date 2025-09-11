@@ -1,4 +1,4 @@
-# YuèYè 月夜 v0.0.4
+# YuèYè 月夜 v0.0.5
 
 YueYe is a high contrast, dark theme. It consists of 20 colors and multiple themes/ports that I (and hopefully soon, others) created.
 
@@ -21,7 +21,7 @@ And so; in my own opinion, the core rules should be:
 I bump the version once I change a color of the Palette below.
 
 ```
-v0.0.4
+v0.0.5
  ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
    ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
      ╰─ Minor Version / Very small updates to the palette
@@ -33,17 +33,17 @@ v0.0.4
 | Color | Name | HEX Value | Usage |
 | --- | --- | --- | --- |
 | ![#FF5487](https://img.shields.io/badge/_-FF5487?style=for-the-badge) | Hóng 红 | `#FF5487` | Properties, Fields, Important elements, Removed |
-| ![#50E074](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Lǜ 绿 | `#50E074` | Secondary Accent, Input elements, Strings, Added |
-| ![#FFE375](https://img.shields.io/badge/_-FFE375?style=for-the-badge) | Jú 橘 | `#FFE375` | Updated |
-| ![#816BFF](https://img.shields.io/badge/_-6682FF?style=for-the-badge) | Lán 蓝 | `#816BFF` | Main Accent, Display accents / symbols, Keywords, Types |
-| ![#EC6AEA](https://img.shields.io/badge/_-F76DE2?style=for-the-badge) | Zǐ 紫 | `#EC6AEA` | Identifier, Method Calls, Special syntax |
-| ![#5AB7FE](https://img.shields.io/badge/_-4CCEFE?style=for-the-badge) | Qīng 青 | `#4CCEFE` | Folders, Navigation |
+| ![#41D468](https://img.shields.io/badge/_-41D468?style=for-the-badge) | Lǜ 绿 | `#41D468` | Secondary Accent, Input elements, Strings, Added |
+| ![#FEE16C](https://img.shields.io/badge/_-FEE16C?style=for-the-badge) | Jú 橘 | `#FEE16C` | Updated |
+| ![#7B6EFC](https://img.shields.io/badge/_-6682FF?style=for-the-badge) | Lán 蓝 | `#7B6EFC` | Main Accent, Display accents / symbols, Keywords, Types |
+| ![#A975FE](https://img.shields.io/badge/_-A975FE?style=for-the-badge) | Zǐ 紫 | `#A975FE` | Identifier, Method Calls, Special syntax |
+| ![#5AB7FE](https://img.shields.io/badge/_-5AB7FE?style=for-the-badge) | Qīng 青 | `#5AB7FE` | Folders, Navigation |
 | ![#FF6593](https://img.shields.io/badge/_-FF6593?style=for-the-badge) | Yàn 艳 | `#FF6593` | lighter variant |
 | ![#77FF9A](https://img.shields.io/badge/_-77FF9A?style=for-the-badge) | Cuì 翠 | `#77FF9A` | lighter variant |
 | ![#FFE188](https://img.shields.io/badge/_-FFE188?style=for-the-badge) | Chéng 橙 | `#FFE188` | lighter variant |
 | ![#949BFF](https://img.shields.io/badge/_-8399FF?style=for-the-badge) | Tiān 天 | `#949BFF` | lighter variant |
-| ![#F08EFF](https://img.shields.io/badge/_-F08EFF?style=for-the-badge) | Fěi 翡 | `#F08EFF` | lighter variant |
-| ![#74D9FE](https://img.shields.io/badge/_-74D9FE?style=for-the-badge) | Líng 泠 | `#74D9FE` | lighter variant |
+| ![#E47FFF](https://img.shields.io/badge/_-E47FFF?style=for-the-badge) | Fěi 翡 | `#E47FFF` | lighter variant |
+| ![#91DFFC](https://img.shields.io/badge/_-91DFFC?style=for-the-badge) | Líng 泠 | `#91DFFC` | lighter variant |
 | ![#EBE9F1](https://img.shields.io/badge/_-EBE9F1?style=for-the-badge) | Xuě 雪 | `#EBE9F1` | Main Text |
 | ![#BFBDCA](https://img.shields.io/badge/_-BFBDCA?style=for-the-badge) | Bái 白 | `#BFBDCA` | Subtext |
 | ![#938FA8](https://img.shields.io/badge/_-938FA8?style=for-the-badge) | Dàn 淡 | `#938FA8` | Overlay, Comments |
