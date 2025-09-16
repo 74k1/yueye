@@ -1,4 +1,4 @@
-# YuèYè 月夜 v0.2.1
+# YuèYè 月夜 v0.2.2
 
 YueYe is a high contrast, dark base16 theme. It consists of 16 colors (duh) and multiple themes/ports that I (and hopefully soon, others) created.
 
@@ -21,7 +21,7 @@ And so; in my own opinion, the core rules should be:
 I bump the version once I change a color of the Palette below.
 
 ```
-v0.2.1
+v0.2.2
  ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
    ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
      ╰─ Minor Version / Very small updates to the palette
@@ -38,7 +38,7 @@ v0.2.1
 | `base0C` | ![#5DB8FA](https://img.shields.io/badge/_-5DB8FA?style=for-the-badge) | Tiān 天 | `#5DB8FA` | Support, Regular Expressions |
 | `base0B` | ![#59F1DA](https://img.shields.io/badge/_-59F1DA?style=for-the-badge) | Cuì 翠  | `#59F1DA` | Strings, Inherited Class, Markup Code |
 | `base0A` | ![#54FF80](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Yín 银  | `#54FF80` | Secondary Accent, Classes, Markup Bold |
-| `base09` | ![#FFE375](https://img.shields.io/badge/_-FFE375?style=for-the-badge) | Chéng 橙| `#FFE375` | Integers, Boolean, Constants |
+| `base09` | ![#FFD772](https://img.shields.io/badge/_-FFD772?style=for-the-badge) | Chéng 橙| `#FFD772` | Integers, Boolean, Constants |
 | `base08` | ![#FF5487](https://img.shields.io/badge/_-FF5487?style=for-the-badge) | Hóng 红 | `#FF5487` | Variables, XML Tags, Markup Link Text |
 | `base07` | ![#BFBDCA](https://img.shields.io/badge/_-BFBDCA?style=for-the-badge) | Xuě 雪  | `#BFBDCA` | Light Background |
 | `base06` | ![#FFFFFF](https://img.shields.io/badge/_-FFFFFF?style=for-the-badge) | Bái 白  | `#FFFFFF` | Light Foreground |
