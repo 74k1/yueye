@@ -1,4 +1,4 @@
-# YuèYè 月夜 v0.2.3
+# YuèYè 月夜 v0.2.4
 
 YueYe is a high contrast, dark base16 theme. It consists of 16 colors (duh) and multiple themes/ports that I (and hopefully soon, others) created.
 
@@ -21,7 +21,7 @@ And so; in my own opinion, the core rules should be:
 I bump the version once I change a color of the Palette below.
 
 ```
-v0.2.3
+v0.2.4
  ╰─┼─┼─ Release Version / When I feel like I've perfected it (perhaps in 10+ years)
    ╰─┼─ Major Version / After the palette has changed enough (when I update all of my [ports](#ports))
      ╰─ Minor Version / Very small updates to the palette
@@ -40,14 +40,14 @@ v0.2.3
 | `base05` | ![#BFBDCA](https://img.shields.io/badge/_-BFBDCA?style=for-the-badge) | Dàn 淡  | `#BFBDCA` | Default Foreground |
 | `base06` | ![#EBE9F1](https://img.shields.io/badge/_-EBE9F1?style=for-the-badge) | Bái 白  | `#EBE9F1` | Light Foreground |
 | `base07` | ![#FFFFFF](https://img.shields.io/badge/_-FFFFFF?style=for-the-badge) | Xuě 雪  | `#FFFFFF` | Light Background |
-| `base08` | ![#FF5487](https://img.shields.io/badge/_-FF5487?style=for-the-badge) | Hóng 红 | `#FF5487` | Variables, XML Tags, Markup Link Text |
-| `base09` | ![#FF9265](https://img.shields.io/badge/_-FF9265?style=for-the-badge) | Chéng 橙| `#FF9265` | Integers, Boolean, Constants |
-| `base0A` | ![#FFD772](https://img.shields.io/badge/_-FFD772?style=for-the-badge) | Yín 银  | `#FFD772` | Secondary Accent, Classes, Markup Bold |
-| `base0B` | ![#54FF80](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Cuì 翠  | `#54FF80` | Strings, Inherited Class, Markup Code |
-| `base0C` | ![#5BD5EA](https://img.shields.io/badge/_-5BD5EA?style=for-the-badge) | Tiān 天 | `#5BD5EA` | Support, Regular Expressions |
+| `base08` | ![#FF4B72](https://img.shields.io/badge/_-FF4B72?style=for-the-badge) | Hóng 红 | `#FF4B72` | Variables, XML Tags, Markup Link Text |
+| `base09` | ![#FF9A5B](https://img.shields.io/badge/_-FF9A5B?style=for-the-badge) | Chéng 橙| `#FF9A5B` | Integers, Boolean, Constants |
+| `base0A` | ![#FFE15A](https://img.shields.io/badge/_-FFE15A?style=for-the-badge) | Yín 银  | `#FFE15A` | Classes, Markup Bold |
+| `base0B` | ![#54FF80](https://img.shields.io/badge/_-54FF80?style=for-the-badge) | Cuì 翠  | `#54FF80` | Secondary Accent, Strings, Inherited Class, Markup Code |
+| `base0C` | ![#5BEBEB](https://img.shields.io/badge/_-5BEBEB?style=for-the-badge) | Tiān 天 | `#5BEBEB` | Support, Regular Expressions |
 | `base0D` | ![#7089FF](https://img.shields.io/badge/_-7089FF?style=for-the-badge) | Lán 蓝  | `#7089FF` | Main Accent, Functions, Methods, Attribute IDs |
-| `base0E` | ![#A878F1](https://img.shields.io/badge/_-A878F1?style=for-the-badge) | Zǐ 紫   | `#A878F1` | Keywords, Storage, Selector, Markup Italic |
-| `base0F` | ![#CB65E2](https://img.shields.io/badge/_-CB65E2?style=for-the-badge) | Fěi 翡  | `#CB65E2` | Deprecated, Removed |
+| `base0E` | ![#AB72FF](https://img.shields.io/badge/_-AB72FF?style=for-the-badge) | Zǐ 紫   | `#AB72FF` | Keywords, Storage, Selector, Markup Italic |
+| `base0F` | ![#E366D9](https://img.shields.io/badge/_-E366D9?style=for-the-badge) | Fěi 翡  | `#E366D9` | Deprecated, Removed |
 
 ## Naming Convention
 
