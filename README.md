@@ -70,6 +70,7 @@ Contributions welcome! Here's what exists so far:
 | [base16](https://github.com/chriskempson/base16) | [snqn/base16](https://github.com/snqn/base16) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
 | [Neovim](https://github.com/neovim/neovim) | [snqn/nvim](https://github.com/snqn/nvim) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) | 
 | [Kagi Search](https://kagi.com/) | [snqn/kagi.css](https://github.com/snqn/kagi.css) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
+| [Pi Coding Agent](https://pi.dev/) | [snqn/pi.dev](https://github.com/snqn/pi.dev) | ![DONE](https://img.shields.io/badge/DONE-62FF90?style=flat-square) |
 | [GTK](https://www.gtk.org/) | [snqn/gtk](https://github.com/74k1/yueye.gtk) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
 | [Nix](https://nixos.org/) | [snqn/nix](https://github.com/74k1/yueye.nix) | ![IN PROGRESS](https://img.shields.io/badge/IN_PROGRESS-323246?style=flat-square) |
 
